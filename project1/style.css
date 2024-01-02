@@ -48,7 +48,7 @@
     line-height: 1.0;
 }
 .section2Img img{
-    width: 100% !important;
+    width: 90% !important;
 }
 .sec2Para{
     color: white;
@@ -57,7 +57,7 @@
 .arrow{
     position: absolute;
     width: 100px !important;
- transform: translate(86vw,80vh);   
+ transform: translate(82vw,80vh);   
 }
 .thirdSection{
     height: 100vh;
