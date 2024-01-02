@@ -9,9 +9,9 @@
     height: 100vh;
     background-image: url("WhatsApp Image 2024-01-02 at 23.51.46_dab2e2f9.jpg");
     background-repeat: no-repeat;
-    background-position: 55% 95%;
-    background-size: 50%;
-    padding: 28vh 0;
+    background-position: 55% 110% !important;
+    background-size: 45%;
+    padding: 30vh 0;
 }
 .mainHeading {
   font-size: 8rem;
@@ -21,7 +21,7 @@
 
 .logo img{
     position: absolute;
-    transform: translate(330%,-55vh );
+    transform: translate(330%,-59vh );
 }
 
 .learnMore{
